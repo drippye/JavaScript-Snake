@@ -80,8 +80,8 @@ a.snake-link:hover {
 }
 
 .snake-food-block {
-    margin: 0px;
-    padding: 0px;
+    margin: 99px;
+    padding: 1px;
     background-color: #FF0000;
     border: 0px solid #000080;
     position: absolute;
